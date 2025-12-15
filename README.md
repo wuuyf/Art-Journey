@@ -17,7 +17,7 @@ Since 2020, I have been drawing a "Nengajo" (New Year's card) every year. This i
 ## More Original Artworks
 Besides New Year's cards, I also create original illustrations.
 
-👉 **[Check out my Original Works here!](./Illustration-Collection)**
+👉 **[Original Works](./Illustration-Collection)**
 
 ---
 
