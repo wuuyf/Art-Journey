@@ -20,8 +20,9 @@ Since 2020, I have been drawing a "Nengajo" (New Year's card) every year. This i
 Besides New Year's cards, I also create original illustrations.
 
 👉 **[Check out my Original Works here!](./Illustration-Collection)**
-<br>
 
-### Tools
+---
+
+## Tools
 - Procreate
 - Hand-drawn
