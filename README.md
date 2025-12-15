@@ -14,6 +14,12 @@ Since 2020, I have been drawing a "Nengajo" (New Year's card) every year. This i
 | **2021** | **Ox**<br>(丑 - うし) | <img src="Nengajo-Collection/2021_ox.JPG" width="250"> |
 | **2020** | **Rat**<br>(子 - ね) | <img src="Nengajo-Collection/2020_rat.JPG" width="250"> |
 
+---
+
+## More Original Artworks
+Besides New Year's cards, I also create original illustrations.
+
+👉 **[Check out my Original Works here!](./Illustration-Collection)**
 <br>
 
 ### Tools
