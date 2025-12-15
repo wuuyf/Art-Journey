@@ -1,7 +1,5 @@
 # My Art Journey
-
 ---
-
 ## Nengajo（年賀状） Collection
 Since 2020, I have been drawing a "Nengajo" (New Year's card) every year. This is a tradition I cherish to mark the beginning of each year.
 
