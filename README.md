@@ -5,6 +5,7 @@ Since 2020, I have been drawing a "Nengajo" (New Year's card) every year. This i
 
 | Year | Zodiac (干支) | Illustration |
 |:---:|:---:|:---:|
+| **2026** | **Horse**<br>(午 - うま) | <img src="Nengajo-Collection/2026_horse.jpg" width="250"> |
 | **2025** | **Snake**<br>(巳 - み) | <img src="Nengajo-Collection/2025_snake.JPG" width="250"> |
 | **2024** | **Dragon**<br>(辰 - たつ) | <img src="Nengajo-Collection/2024_dragon.jpg" width="250"> |
 | **2023** | **Rabbit**<br>(卯 - う) | <img src="Nengajo-Collection/2023_rabbit.JPG" width="250"> |
